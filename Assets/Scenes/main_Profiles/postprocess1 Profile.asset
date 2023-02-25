@@ -1326,10 +1326,10 @@ MonoBehaviour:
   active: 1
   enabled:
     overrideState: 1
-    value: 1
+    value: 0
   focusDistance:
     overrideState: 1
-    value: 4
+    value: 1
   aperture:
     overrideState: 0
     value: 5.6
